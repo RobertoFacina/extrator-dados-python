@@ -32,7 +32,7 @@ Certifique-se de ter o Python instalado na sua máquina. Você também precisar�
 
 Clone o repositório:
 
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+git clone [https://github.com/RobertoFacina/extrator-dados-python.git](https://github.com/RobertoFacina/extrator-dados-python.git)
 cd SEU-REPOSITORIO
 
 
